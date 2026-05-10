@@ -1,0 +1,3 @@
+-Repositorio: un repositorio permite guardar y organizar los archivos de un proyecto llevando el historial de cambios y que puede estar en tu computadora como en un servidor remoto como github facilitando la colaboración
+-Commit: Es un punto de guardado que registra los cambios en el repositorio local. Cada commit incluye un mensaje descriptivo que ayuda a saber qué se modificó o qué error se reparó
+-Push: Es el comando que sube o envía los cambios desde el repositorio local hacia el repositorio remoto (como GitHub). Sirve para que tu trabajo esté disponible en la nube y otros puedan verlo..
